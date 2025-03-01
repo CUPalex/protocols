@@ -1,8 +1,8 @@
-**Date:** 28.02.2025
-**Attendees:** Amelie, Eileen, Léon, Sasha, Asta person: Simon
+- **Date:** 28.02.2025
+- **Attendees:** Amelie, Eileen, Léon, Sasha, Asta person: Simon
 Christoffel
-**Modality:** Online through MS Teams
-**Protocol:** Amelie
+- **Modality:** Online through MS Teams
+- **Protocol:** Amelie
 
 # Official Part
 this part was attended by Simon Christoffel, to make the new student council official
@@ -15,7 +15,7 @@ this part was attended by Simon Christoffel, to make the new student council off
 - Amelie is writing the protocol, which was accepted by all
 
 ## 1. Accepting being in the student council
-Amelie, Eileen, Léon, Sasha all except that they have been elected
+Amelie, Eileen, Léon, Sasha all accept that they have been elected  
 → they are now officially the student council
 
 ## 2. Roles
@@ -54,7 +54,8 @@ for this part, Simon Christoffel left the meeting
 	- when students approach us with problems
 	- at the Fachschafskonferenz (student council conference)
 	- at the faculty meeting
-- OpenDay (Tag der offenen Tür): represent the Bachelor Computerlinguistik. LangSci has their own booth, not from the student council (Léon is involved in that). We will have to check if we can find enough people for Coli this year (Amelie is the only Coli elected member). If not we will check if it might be possible to add Coli to the LangSci booth.
+- OpenDay (Tag der offenen Tür): represent the Bachelor Computerlinguistik. LangSci has their own booth, not from the student council (Léon is involved in that).  
+  We will have to check if we can find enough people for Coli this year (Amelie is the only Coli elected member). If not we will check if it might be possible to add Coli to the LangSci booth.
 - optionally we can also do other cool stuff, like the merch
 
 ## Infrastructure
